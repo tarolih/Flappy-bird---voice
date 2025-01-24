@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ## Running the game
 
 ```bash
-python game.py
+python fp_voice.py
 ```
 
 Ensure your microphone is set as the default recording device, as the game uses voice input to control the gameplay.
