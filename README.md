@@ -12,8 +12,7 @@ Before running the game, you will need Python installed on your system. This gam
 ### Clone the Repository
 
 ```bash
-git clone [your-repository-link]
-cd [repository-folder]
+git clone https://github.com/tarolih/Flappy-bird---voice.git
 ```
 
 ### Create and Activate a Virtual Environment
